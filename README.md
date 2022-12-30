@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>VirtualBox (Oracle Type II Hypervisor)</b>
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/reyespinoza/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/reyespinoza/post-install-config)
