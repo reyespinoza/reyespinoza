@@ -4,6 +4,7 @@
 
 - <b>VirtualBox (Oracle Type II Hypervisor)</b>
   - [VirtualBox: Prerequisites and Installation](https://github.com/reyespinoza/virtualbox-prereqs)
+  - [VirtualBox: Installing Windows10](https://youtu.be/3IY8qymOHrY)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/reyespinoza/osticket-prereqs)
