@@ -14,7 +14,7 @@
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | YouTube" width="22px" src="https://i.imgur.com/zBuf3MX.jpg" />][youtube]
+[<img align="left" alt="Josh | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][youtube]
 
 [twitter]: https://twitter.com/reynet127
 [linkedin]: https://linkedin.com/in/reyespinoza255
