@@ -7,6 +7,7 @@
   - [VirtualBox: Installing Windows10](https://youtu.be/3IY8qymOHrY)
 
 - <b>Microsoft Azure</b>
+  - [How to Install Virtual Machines within Azure](https://youtu.be/713GbsYQvTc)  
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/reyespinoza/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/reyespinoza/azure-network-protocols)
 
