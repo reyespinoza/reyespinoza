@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [How to Install Virtual Machines within Azure](https://youtu.be/mdomIx5l4-0)  
   - [Configuring Active Directory within Azure VMs Part I](https://github.com/reyespinoza/configure-ad)
-  - [Configuring Active Directory within Azure VMs Part II
+  - [Configuring Active Directory within Azure VMs Part II](https://github.com/reyespinoza/configure-ad-Part-II)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/reyespinoza/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
