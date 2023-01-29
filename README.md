@@ -20,4 +20,4 @@
 
 [twitter]: https://twitter.com/reynet127
 [linkedin]: https://linkedin.com/in/reyespinoza255
-[youtube]: https://www.youtube.com/@reynoza127
+[youtube]: https://www.youtube.com/@reynet255
