@@ -1,4 +1,5 @@
 <h1>Hi, I'm Rey, an <a href="https://linkedin.com/in/reyespinoza255">IT Student</a> pursuing a career in IT</h1>
+<h1>I extend a warm welcome to my portfolio, an endeavor continuously undergoing refinement as I make a concentrated effort to expand my knowledge base and skill set</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
