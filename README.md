@@ -5,7 +5,7 @@
 
 - <b>VirtualBox (Oracle Type II Hypervisor)</b>
   - [VirtualBox: Prerequisites and Installation](https://github.com/reyespinoza/virtualbox-prereqs)
-  - [VirtualBox: Installing Windows10](https://youtu.be/3IY8qymOHrY)
+  - [VirtualBox: Installing Windows10](https://github.com/reyespinoza/windows10-virtualbox)
 
 - <b>Microsoft Azure</b>
   - [How to Install Virtual Machines within Azure](https://youtu.be/mdomIx5l4-0)  
