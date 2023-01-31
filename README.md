@@ -8,7 +8,7 @@
   - [VirtualBox: Installing Windows10](https://github.com/reyespinoza/windows10-virtualbox)
 
 - <b>Microsoft Azure</b>
-  - [How to Install Virtual Machines within Azure](https://youtu.be/mdomIx5l4-0)  
+  - [How to Install Virtual Machines within Azure](https://github.com/reyespinoza/installing-virtual-machines-with-azure)  
   - [Configuring Active Directory within Azure VMs Part I](https://github.com/reyespinoza/configure-ad)
   - [Configuring Active Directory within Azure VMs Part II](https://github.com/reyespinoza/configure-ad-Part-II)
 
